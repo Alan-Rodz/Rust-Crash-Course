@@ -1,1 +1,1 @@
-Conceptos básicos del lenguaje de programación Rust.
+Cosas en Rust.
